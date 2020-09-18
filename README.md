@@ -12,10 +12,10 @@
 </p>
 
 <a href="https://github.com/Yuppymam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuppymam&layout=compact&theme=dracula&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuppymam&layout=compact&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/Yuppymam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuppymam&hide=stars,issues&theme=dracula&show_icons=true&line_height=30" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuppymam&hide=stars,issues&theme=dracula&show_icons=true&line_height=30" />
 </a>
 
 <!--
