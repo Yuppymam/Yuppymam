@@ -11,13 +11,14 @@
   </a>
 </p>
 
-<a href="https://github.com/Yuppymam">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuppymam&layout=compact&theme=dracula&show_icons=true" />
-</a>
-<a href="https://github.com/Yuppymam">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuppymam&hide=stars,issues&theme=dracula&show_icons=true&line_height=30" />
-</a>
-
+<div align="left">
+  <a href="https://github.com/Yuppymam">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuppymam&layout=compact&theme=dracula&show_icons=true" />
+  </a>
+  <a href="https://github.com/Yuppymam">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yuppymam&hide=stars,issues&theme=dracula&show_icons=true&line_height=30" />
+  </a>
+</div>
 <!--
 **Yuppymam/Yuppymam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
