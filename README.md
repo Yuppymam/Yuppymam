@@ -11,10 +11,10 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Yuppymam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuppymam&layout=compact&theme=dracula&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Yuppymam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuppymam&hide=stars,issues&theme=dracula&show_icons=true&line_height=30" />
 </a>
 
