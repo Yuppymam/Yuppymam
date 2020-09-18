@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi I'm Yuppymam 😘
+<p align="left"> 
+  <a href="http://twitter.com/Yuppyhappytoyou">
+    <img height="20" src="https://img.shields.io/twitter/follow/Yuppyhappytoyou?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="http://qiita.com/yuppymam">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuppymam/posts.svg" />
+  </a>
+  <//qiita.com/yuppymam">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuppymam/contributions.svg" />
+  </a>
+</p>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuppymam&layout=compact&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuppymam&hide=stars,issues&theme=dracula&show_icons=true&line_height=30" />
+</a>
 
 <!--
 **Yuppymam/Yuppymam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
