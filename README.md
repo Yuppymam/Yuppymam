@@ -15,7 +15,7 @@
 - 🔳 Shell: zsh
 - 🖥 PC: iMac, MacbookPro
 - 🖋 Editor: VScode
-- 🏝 Working on: [https://yasslab.jp/ja/](https://yasslab.jp/ja/)
+- 🏝 Working on: [https://yasslab.jp/](https://yasslab.jp/)
 - 🌱 I’m currently learning: [https://github.com/kuroda/baukis2](https://github.com/kuroda/baukis2)
 - 📫 How to reach me: [@Yuppyhappytoyou](https://twitter.com/Yuppyhappytoyou)
 
