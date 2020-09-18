@@ -11,7 +11,13 @@
   </a>
 </p>
 
-<div align="left" style="margin-top: 30px;">
+- 💖 Nickname: Yuppy
+- 🖥 shell: zsh
+- 🏝 working on [https://yasslab.jp/ja/](https://yasslab.jp/ja/)
+- 🌱 I’m currently learning [https://github.com/kuroda/baukis2](https://github.com/kuroda/baukis2)
+- 📫 How to reach me: [@Yuppyhappytoyou](https://twitter.com/Yuppyhappytoyou)
+
+<div align="left">
   <a href="https://github.com/Yuppymam">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuppymam&layout=compact&theme=dracula&show_icons=true" />
   </a>
@@ -19,9 +25,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Yuppymam&hide=stars,issues&theme=dracula&show_icons=true&line_height=30" />
   </a>
 </div>
-
-- 💖 Nickname: Yuppy
-- 🖥 shell: zsh
-- 🏝 working on [https://yasslab.jp/ja/](https://yasslab.jp/ja/)
-- 🌱 I’m currently learning [https://github.com/kuroda/baukis2](https://github.com/kuroda/baukis2)
-- 📫 How to reach me: [@Yuppyhappytoyou](https://twitter.com/Yuppyhappytoyou)
