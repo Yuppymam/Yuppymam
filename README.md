@@ -12,7 +12,9 @@
 </p>
 
 - 💖 Nickname: Yuppy
-- 🖥 shell: zsh
+- 🔳 shell: zsh
+- 🖥 PC: iMac, MacbookPro
+- 🖋 Editor: VScode
 - 🏝 working on [https://yasslab.jp/ja/](https://yasslab.jp/ja/)
 - 🌱 I’m currently learning [https://github.com/kuroda/baukis2](https://github.com/kuroda/baukis2)
 - 📫 How to reach me: [@Yuppyhappytoyou](https://twitter.com/Yuppyhappytoyou)
