@@ -1,4 +1,4 @@
-### Hi I'm Yuppymam 😘
+### Hi I'm Yuppymam ✨
 <p align="left"> 
   <a href="http://twitter.com/Yuppyhappytoyou">
     <img height="20" src="https://img.shields.io/twitter/follow/Yuppyhappytoyou?label=Twitter&logo=twitter&style=flat" />
