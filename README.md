@@ -20,7 +20,7 @@
   </a>
 </div>
 
-[![](https://raw.githubusercontent.com/Yuppymam/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/Yuppymam/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Yuppymam/Yuppymam/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **Yuppymam/Yuppymam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
