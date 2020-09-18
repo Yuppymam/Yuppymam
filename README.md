@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<div align="left">
+<div align="left" style="margin-top: 30px;">
   <a href="https://github.com/Yuppymam">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuppymam&layout=compact&theme=dracula&show_icons=true" />
   </a>
