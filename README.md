@@ -13,7 +13,7 @@
 
 - 💖 Nickname: Yuppy
 - 🔳 Shell: zsh
-- 🖥 PC: iMac, MacbookPro
+- 🖥 PC: iMac, MacBookPro
 - 🖋 Editor: VScode
 - 🏝 Working on: [https://yasslab.jp/](https://yasslab.jp/)
 - 🌱 I’m currently learning: [https://github.com/kuroda/baukis2](https://github.com/kuroda/baukis2)
