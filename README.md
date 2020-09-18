@@ -6,7 +6,7 @@
   <a href="http://qiita.com/yuppymam">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuppymam/posts.svg" />
   </a>
-  <//qiita.com/yuppymam">
+  <a href="http://qiita.com/yuppymam">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuppymam/contributions.svg" />
   </a>
 </p>
