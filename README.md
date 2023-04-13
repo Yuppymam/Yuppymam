@@ -12,11 +12,10 @@
 </p>
 
 - 💖 Nickname: Yuppy
-- 🔳 Shell: zsh
 - 🖥 PC: iMac, MacBookPro
 - 🖋 Editor: VScode
 - 🏝 Working on: [https://yasslab.jp/](https://yasslab.jp/)
-- 🌱 I’m currently learning: [https://github.com/kuroda/baukis2](https://github.com/kuroda/baukis2)
+- 🌱 I’m currently learning: [Turbo Rails Tutorial](https://www.hotrails.dev/turbo-rails)
 - 📫 How to reach me: [@Yuppyhappytoyou](https://twitter.com/Yuppyhappytoyou)
 
 <div align="left">
