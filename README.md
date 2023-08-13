@@ -1,7 +1,7 @@
 ### 👋 Hi I'm Yuppymam
 <p align="left"> 
   <a href="http://twitter.com/Yuppyhappytoyou">
-    <img height="20" src="https://img.shields.io/twitter/follow/Yuppyhappytoyou?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/Yuppyhappytoyou?style=social" />
   </a>
   <a href="http://qiita.com/yuppymam">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuppymam/posts.svg" />
@@ -11,12 +11,7 @@
   </a>
 </p>
 
-- 💖 Nickname: Yuppy
-- 🖥 PC: iMac, MacBookPro
-- 🖋 Editor: VScode
-- 🏝 Working on: [https://yasslab.jp/](https://yasslab.jp/)
-- 🌱 I’m currently learning: [Turbo Rails Tutorial](https://www.hotrails.dev/turbo-rails)
-- 📫 How to reach me: [@Yuppyhappytoyou](https://twitter.com/Yuppyhappytoyou)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuppymam&theme=moonlight)
 
 <div align="left">
   <a href="https://github.com/Yuppymam">
